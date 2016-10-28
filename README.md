@@ -3,7 +3,7 @@
 This file must be opened using Dr.Racket
 
 
-To run the program in Dr.Racket click the run button then enter either:
+To run the program in Dr.Racket click the run button and then enter either:
 
 (main LOLS1) || (main LOLS2)
 
