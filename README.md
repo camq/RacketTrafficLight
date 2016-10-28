@@ -5,7 +5,7 @@ This file must be opened using Dr.Racket
 
 To run the program in Dr.Racket click the run button and then enter either:
 
-(main LOLS1) || (main LOLS2)
+(main LOLS2) || (main LOLS3)
 
 The commands are:
 
