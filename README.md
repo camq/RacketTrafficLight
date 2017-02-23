@@ -5,7 +5,7 @@ This file must be opened using Dr.Racket
 
 To run the program in Dr.Racket click the run button and then enter either:
 
-(main LOLS2) || (main LOLS3)
+(main LOLS1) || (main LOLS2)
 
 The commands are:
 
@@ -13,8 +13,8 @@ The commands are:
 
 "DOWN": red->yellow->green->red
 
-"LEFT": If you are on solid green or solid yellow this will alternate the advanced left turn signal. If you are on red nothing will happen
+"LEFT": advance green->advance yellow->no advance light->advance green.
 
-"RIGHT": If you are on solid green or solid yellow this will alternate the advanced left turn signal. If you are on red nothing will happen
+"RIGHT": no advance light->advance yellow->advance green->no advance light
 
 "SPACE": Simulate a broken traffic light
